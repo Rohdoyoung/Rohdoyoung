@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Markdown
+## 2
+### 3
+#### 4
+- 1
+- 2
+  - 3
+---
+**bold**<br>
+*italic*<br>
+~취소선~<br>
+
+
