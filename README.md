@@ -7,6 +7,8 @@
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
+<img src="images/IMG_8383.jpg" width='200' height='300'>
+
 <!--
 **Rohdoyoung/Rohdoyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
